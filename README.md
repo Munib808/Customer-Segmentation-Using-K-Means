@@ -13,7 +13,6 @@ The analysis uses a publicly available dataset of mall customers.
 - **K Means Clustering Project.ipynb**: Jupyter Notebook containing the Python code for data loading, preprocessing, clustering, and visualization.  
 - **Mall_Customers.csv**: The dataset used for this project.  
 - **README.md**: Project overview and documentation.  
-- **visualizations/**: Directory containing the output plots and images generated during the analysis.  
 
 ---
 
@@ -46,11 +45,3 @@ The analysis uses a publicly available dataset of mall customers.
 - Cluster 1: High spending scores and moderate-to-high income.  
 - Cluster 2: Low income but high spending behavior.  
 - The cluster profiles provide actionable insights for **targeted marketing strategies**.  
-
----
-
-## How to Run the Project
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repository-name.git
